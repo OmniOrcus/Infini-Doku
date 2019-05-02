@@ -1,0 +1,6 @@
+﻿  Infini-Doku.cpp
+c:\users\oliver c-mcc\documents\visual studio 2015\projects\edx course labwork\infini-doku\infini-doku\infini-doku.cpp(110): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\oliver c-mcc\documents\visual studio 2015\projects\edx course labwork\infini-doku\infini-doku\infini-doku.cpp(153): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\oliver c-mcc\documents\visual studio 2015\projects\edx course labwork\infini-doku\infini-doku\infini-doku.cpp(77): warning C4101: 'validator': unreferenced local variable
+c:\users\oliver c-mcc\documents\visual studio 2015\projects\edx course labwork\infini-doku\infini-doku\infini-doku.cpp(276): warning C4305: 'argument': truncation from 'double' to 'float'
+  Infini-Doku.vcxproj -> C:\Users\Oliver C-McC\Documents\Visual Studio 2015\Projects\Edx Course Labwork\Infini-Doku\Debug\Infini-Doku.exe
